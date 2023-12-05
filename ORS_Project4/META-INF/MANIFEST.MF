@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ORS_Project4
+Bundle-SymbolicName: ORS_Project4
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.rays.pro4.Bean,
+ com.rays.pro4.Exception,
+ com.rays.pro4.Model,
+ com.rays.pro4.Util,
+ com.rays.pro4.controller,
+ com.rays.proj4.Test
